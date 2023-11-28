@@ -15,11 +15,6 @@
   <div class="flex-none">
     <ul class="menu menu-horizontal px-1">
       <li>
-        <a href="https://ko-fi.com/" class="m-auto btn-accent mr-2 p-0">
-          <img class='w-[5.5rem]' src="$lib/icons/kofi-badge.svg" />
-        </a>
-      </li>
-      <li>
         <details>
           <summary>
             More
