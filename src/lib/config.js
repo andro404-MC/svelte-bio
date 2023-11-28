@@ -1,7 +1,7 @@
 export let profileLink = "https://avatars.githubusercontent.com/u/94703538?v=4"
-export let name = "untemi"
+export let name = "Untemi"
 export let kofiLink = "https://ko-fi.com/untemi"
-
+/* image 545x180 */
 export let items = [
   {
     title : "Facebook",

@@ -3,6 +3,10 @@
   import * as config from "$lib/config.js";
 </script>
 
+<svelte:head>
+	<title>{config.name} - bio</title>
+</svelte:head>
+
 <div class="navbar bg-base-200 absolute z-50 drop-shadow-md sticky top-0 z-50">
   <div class="flex-1">
     <a href="/" class="btn btn-ghost text-xl">
