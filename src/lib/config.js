@@ -26,6 +26,6 @@ export let items = [
     paragraph : "+212 61 23 45 67 89",
     link : "https://whatsapp.com",
     imageLink : "https://untemi.sirv.com/bio/whatsapp.webp",
-    imageColor : "#fcf5eb",
+    imageColor : "white",
   },
 ]
