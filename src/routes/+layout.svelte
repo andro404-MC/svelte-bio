@@ -12,7 +12,7 @@
     <a href="/" class="btn btn-ghost text-xl">
     <div class="avatar mr-2">
         <div class="w-8 rounded-full">
-          <img src="https://avatars.githubusercontent.com/u/94703538?v=4" />
+          <img src="{config.profileLink}" alt="profile image"/>
         </div>
       </div>
       {config.name}</a>
