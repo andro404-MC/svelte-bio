@@ -4,21 +4,26 @@
 
 <div class="p-5">
   <div class="grid grid-cols-1 sm:grid-cols-4 gap-4 justify-between">
-    <SocialCard link="https://facebook.com" bg="white" title="Facebook" paragraph="abdelfettah jalllali">
-      <img class="h-12" src="$lib/images/facebook.webp" alt="logo" />
-    </SocialCard>
+    <SocialCard imgLink="https://untemi.sirv.com/bio/facebook.webp"
+    link="https://facebook.com"
+    bg="white" title="Facebook"
+    paragraph="abdelfettah jalllali"/>
 
-    <SocialCard link="https://whatsapp.com" bg="#fcf5eb" title="WhatsApp" paragraph="+212 612345678">
-      <img class="h-12" src="$lib/images/whatsapp.webp" alt="logo" />
-    </SocialCard>
+    <SocialCard imgLink="https://untemi.sirv.com/bio/instagram.webp"
+    link="https://instagram.com"
+    bg="linear-gradient(130deg, rgba(249,206,52,1) 0%, rgba(238,42,123,1) 50%, rgba(98,40,215,1) 100%)"
+    title="Instagram"
+    paragraph="@untemi"/>
 
-    <SocialCard link="https://instagram.com" bg="linear-gradient(130deg, rgba(249,206,52,1) 0%, rgba(238,42,123,1) 50%, rgba(98,40,215,1) 100%)" title="Instagram" paragraph="@untemi">
-      <img class="h-12" src="$lib/images/instagram.webp" alt="logo" />
-    </SocialCard>
+    <SocialCard imgLink="https://untemi.sirv.com/bio/youtube.webp"
+    link="https://youtube.com"
+    bg="white" title="YouTube"
+    paragraph="@untemi0"/>
 
-    <SocialCard link="https://youtube.com" bg="white" title="YouTube" paragraph="@untemi">
-      <img class="h-12" src="$lib/images/youtube.webp" alt="logo" />
-    </SocialCard>
+    <SocialCard imgLink="https://untemi.sirv.com/bio/whatsapp.webp"
+    link="https://whatsapp.com"
+    bg="#fcf5eb" title="WhatsApp"
+    paragraph="+212 61 23 45 67 89"/>
   </div>
 </div>
 
