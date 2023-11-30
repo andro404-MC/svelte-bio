@@ -12,7 +12,7 @@
       <p>{paragraph}</p>
     </div>
     <figure style="background:{bg};" class="p-2 sm:p-10">
-      <img class="h-12" src="{imgLink}" alt="logo" />
+      <img height="48" width="144" src="{imgLink}" alt="logo" />
     </figure>
   </div>
 </a>
