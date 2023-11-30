@@ -10,6 +10,7 @@
 
 <svelte:head>
 	<title>{config.name} - bio</title>
+  <link rel="icon" href="{config.favicon}" />
 </svelte:head>
 
 <div class="navbar bg-base-200 drop-shadow-md sticky top-0 z-50">
@@ -26,7 +27,7 @@
     <ul class="menu menu-horizontal px-1">
       <li>
         <label class="swap swap-rotate">
-          <input data-toggle-theme="dark,light" type="checkbox" class="theme-controller" value="light" />
+          <input data-toggle-theme="dark,light" data-act-class="ACTIVECLASS" type="checkbox" class="theme-controller"/>
           <iconify-icon class="swap-on fill-current" height="20px" icon="ic:baseline-light-mode"/>
           <iconify-icon class="swap-off fill-current" height="20px" icon="ic:baseline-dark-mode"/>
         </label>

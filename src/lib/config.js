@@ -1,5 +1,6 @@
 export let profileLink = "https://avatars.githubusercontent.com/u/94703538?v=4"
 export let name = "Untemi"
+export let favicon = "https://upload.wikimedia.org/wikipedia/commons/6/6e/Svelte_logo_by_gengns.svg"
 export let kofiLink = "https://ko-fi.com/untemi"
 /* image 545x180 */
 export let items = [
