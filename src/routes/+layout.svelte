@@ -43,3 +43,9 @@
 </div>
 
 <slot />
+
+<div class="toast toast-end p-2 sm:p-5">
+  <a href="{config.kofiLink}" class="flex alert alert-success">
+    <span><b>Donate</b></span>
+  </a>
+</div>

@@ -78,3 +78,4 @@ export let items = [
     imageColor : "white",
   }
 ]
+export let about = "test"
