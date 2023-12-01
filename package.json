@@ -8,6 +8,7 @@
   "devDependencies": {
     "@sveltejs/adapter-auto": "^2",
     "@sveltejs/kit": "^1",
+    "@vite-pwa/sveltekit": "^0.2.8",
     "autoprefixer": "^10",
     "daisyui": "^3",
     "postcss": "^8",
