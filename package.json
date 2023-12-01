@@ -18,7 +18,6 @@
   },
   "dependencies": {
     "iconify-icon": "^1.0.8",
-    "marked": "^11.0.0",
     "theme-change": "^2.5.0"
   }
 }
