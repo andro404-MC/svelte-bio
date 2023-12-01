@@ -1,6 +1,8 @@
-export let profileLink = "https://avatars.githubusercontent.com/u/94703538?v=4"
+/* image 200x200 */
+export let profileLink = "https://untemi.sirv.com/bio/untemi.webp"
 export let name = "Name"
-export let favicon = "https://upload.wikimedia.org/wikipedia/commons/6/6e/Svelte_logo_by_gengns.svg"
+/* image 64x64 */
+export let favicon = "https://untemi.sirv.com/bio/untemi.webp"
 export let kofiLink = "https://ko-fi.com/"
 /* image 545x180 */
 export let items = [
@@ -78,4 +80,5 @@ export let items = [
     imageColor : "white",
   }
 ]
-export let about = "test"
+
+export let about = "test\n**test**"
